@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 
 public class ParcialEstructura {
     public static void main (String []  args){
-        
+        int prueba=0;
       
          QuizEstructura obj = new QuizEstructura();
         int i=1;
